@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="button">Button</string>
+
+    <string name="button1">button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="reset">Reset</string>
+    <string name="age">Age:</string>
+    <string name="school">School:</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="name">Name:</string>
+</resources>
